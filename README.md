@@ -1,18 +1,35 @@
 # ¡Hola! Soy Walter Tello 👋
 
-Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Perú (UTP), actualmente cursando el 5to ciclo. Me apasiona el desarrollo backend y la resolución de problemas lógicos mediante código limpio y estructurado.
+Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Perú (UTP), en 6to ciclo. Me enfoco en el **desarrollo backend con Java y Spring Boot**: construir APIs REST bien estructuradas, con validaciones, manejo de errores y buenas prácticas.
+
+🔎 **Busco prácticas preprofesionales en desarrollo backend.**
 
 ---
 
-### 🚀 Mis conocimientos actuales (Java Swing & POO)
-Estoy consolidando mis bases en **Programación Orientada a Objetos**, aplicando conceptos arquitectónicos esenciales en entornos de escritorio:
-- 🧬 **Herencia y Polimorfismo:** Creación de estructuras jerárquicas eficientes (Clases abstractas e Interfaces).
-- 🔒 **Encapsulamiento y Abstracción:** Modularización de código para mantener la seguridad y orden del software.
-- 🎨 **Interfaces Gráficas (GUI):** Desarrollo de aplicaciones de escritorio con Java Swing manejando eventos y componentes dinámicos.
+## 🛠️ Tecnologías
 
----
+- **Lenguajes:** Java, SQL
+- **Backend:** Spring Boot, Spring Web, Spring Data JPA, Hibernate, Bean Validation
+- **Base de datos:** MySQL
+- **Herramientas:** Git, GitHub, Maven, IntelliJ IDEA, Postman
+- **Fundamentos:** Programación orientada a objetos, patrones de diseño, estructuras de datos
 
-### 📂 Proyectos de Aprendizaje
-Mis repositorios contienen laboratorios académicos y desafíos personales donde pongo en práctica estos pilares, como sistemas de simulación de planillas y gestión de entidades modulares.
+## 🚀 Proyecto destacado
 
-¡En constante aprendizaje para dar el salto hacia el desarrollo web y las bases de datos en los próximos meses!
+### [To-Do API](https://github.com/Sebaz17/todo-api)
+API REST para la gestión de tareas, desarrollada con Spring Boot y MySQL.
+
+- Arquitectura en capas (controller, service, repository)
+- CRUD completo con códigos HTTP estándar (200, 201, 204, 400, 404)
+- Validación de datos y manejo global de errores con `@RestControllerAdvice`
+- Protección contra la sobrescritura de registros al crear recursos
+
+## 📚 Aprendiendo ahora
+
+- DTOs y aplicación de patrones de diseño
+- Tests unitarios con JUnit y Mockito
+- Documentación de APIs con Swagger
+
+## 📫 Contacto
+
+- LinkedIn: [Walter Tello](https://www.linkedin.com/in/walter-sebastian-tello-titto-a73a512a5/)
